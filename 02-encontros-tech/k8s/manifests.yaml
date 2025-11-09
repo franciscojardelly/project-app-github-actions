@@ -21,7 +21,7 @@ spec:
         - containerPort: 8000
         env:
         - name: DATABASE_URL
-          value: "Db_Url_Database"
+          value: "Db_UrlDatabase"
         - name: APP_TITLE
           value: "Encontros Tech"
         - name: DEBUG
